@@ -1,0 +1,5 @@
+{
+    "gitlens.statusBar.enabled": false,
+    "gitlens.statusBar.reduceFlicker": false,
+    "gitlens.statusBar.pullRequests.enabled": false
+}
